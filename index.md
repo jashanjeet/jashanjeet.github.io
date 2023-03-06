@@ -1,7 +1,3 @@
----
-title: The blog of exploration
----
-
 <ul>
   {% for post in site.posts %}
     <li>
