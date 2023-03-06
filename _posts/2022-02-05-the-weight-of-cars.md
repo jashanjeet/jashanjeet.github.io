@@ -36,6 +36,7 @@ That’s effectively reducing the emissions and fuel consumption footprint by at
 Unfortunately, with emission standards being relatively loose for SUVs and Crossovers, automakers are incentivizing customers to switch to these vehicles. This is backwards compared to what is ideal. Who’s even making these laws?
 
 The ideal laws would incentivize lighter cars with lower taxes and discouraging heavier cars by adding taxes to the heaviest of cars. Does something like this exist? Yes, Japan again with its Kei car laws.
-What do I do?
+
+# What do I do?
 
 Buy lighter cars. You’ll save money and probably have more fun while driving a more agile car. In the words of Colin Chapman: Simplify and add lightness.
