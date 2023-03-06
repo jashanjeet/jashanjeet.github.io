@@ -11,8 +11,7 @@ In terms of the physics of it, it doesn’t matter which fuel is used or if the 
 
 Kinetic energy at a constant speed is a function of mass and velocity. City driving involves a lot of acceleration and braking as well though and every time we brake, we’ve got to accelerate again and energy consumption is proportional to the square of acceleration.
 
-With the velocity being a function of speed limits and acceleration being a function of driving habits of the user, the vehicle design majorly only affects the weight in this equation. Let’s look at the co-relation between weight and fuel consumption of various cars using an available dataset:
-https://www.kaggle.com/uciml/autompg-dataset
+With the velocity being a function of speed limits and acceleration being a function of driving habits of the user, the vehicle design majorly only affects the weight in this equation. Let’s look at the co-relation between weight and fuel consumption of various cars using an available [dataset](https://www.kaggle.com/uciml/autompg-dataset):
 
 ![Weights and MPGs](/assets/images/mpg-weight-5.webp)
 
