@@ -4,7 +4,8 @@ date: 2022-02-05
 ---
 
 With the car world being pushed towards higher efficiencies, the question “What causes fuel/electricity consumption in a car?” arose in my mind. The answer was easy: Weight and Aerodynamics. Lets talk about weight today.
-Energy Consumption
+
+#Energy Consumption
 
 In terms of the physics of it, it doesn’t matter which fuel is used or if the car is electric or gasoline powered; If we calculate the energy required, we can use whichever fuel we like to supply that energy. Once the energy consumption of the vehicle is ascertained, the fuel can be chosen based on the environmental impact, availability, cost and other factors.
 
