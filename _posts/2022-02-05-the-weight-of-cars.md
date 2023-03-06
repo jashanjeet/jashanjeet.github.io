@@ -17,19 +17,20 @@ https://www.kaggle.com/uciml/autompg-dataset
 ![Weights and MPGs](/assets/images/mpg-weight-5.webp)
 
 Vehicles weighing approximately 2000lbs lie around the 30mpg mark in this dataset. When we look at the cars weighing around 4000lbs, the mpg drops to the 15mpg area. Of course there’s other factors at play too, most important of them being the aerodynamic drag which is a function of frontal area and drag-coefficient. And although the frontal area is highly correlated to the size of the vehicle which lends even more support to this thesis, let’s ignore that for a minute.
-Electric vs Gasoline
 
-I love electric cars and their amazing torque characteristics. And the electric drivetrain itself is actually lighter than a traditional IC engine. The thing that literally weighs electric cars down is the battery. And while there’s very little reliable data on how much more an electric car weighs compared to a traditional ICE car, an approximation can be had using platforms offering both electric and ICE drivetrains. The Hyundai Kona electric for example weighs about 335kg or about 750lbs more than its gasoline counterpart for the same trim package. So we’ve added 25% extra mass to a car, which has increased its energy consumption by at least the same percentage.
+# Electric vs Gasoline
 
-To paint a simpler picture, imagine increasing the car driving population of the world by 25%.
-What’s ideal?
+I love electric cars and their amazing torque characteristics. And the electric drivetrain itself is actually lighter than a traditional IC engine. The thing that literally weighs electric cars down is the battery. And while there’s very little reliable data on how much more an electric car weighs compared to a traditional ICE car, an approximation can be had using platforms offering both electric and ICE drivetrains. The Hyundai Kona electric for example weighs about 335kg or about 750lbs more than its gasoline counterpart for the same trim package. So we’ve added 25% extra mass to a car, which has increased its energy required for hauling by at least the same percentage. The good thing here is that the drivetrain being more efficient more than offsets it. But it doesnt offset the handling characteristics and it is a fundamentally flawed starting point in my opinion.
+
+# What’s ideal?
 
 To really be green, we need to be driving lighter cars. If electric cars are greener, then we need to be driving electric cars that are lighter than their ICE counterparts. Unfortunately this seems to be a bit of a technical challenge right now.
 
 Japan, having gone through austerity once, really has it figured out in my opinion. The best selling vehicle in the USA is the Ford F150 weighing 4400lbs and having a fuel consumption rating of 16mpg. In contrast, the best selling car in Japan is the Honda N-Box weighing 2100lbs with a fuel consumption rating of 54mpg.
 
 That’s effectively reducing the emissions and fuel consumption footprint by at least 70% for the same distance driven. What’s the impact of the current set of laws again? Which law encourages lightweight cars?
-Laws and Regulations
+
+# Laws and Regulations
 
 Unfortunately, with emission standards being relatively loose for SUVs and Crossovers, automakers are incentivizing customers to switch to these vehicles. This is backwards compared to what is ideal. Who’s even making these laws?
 
