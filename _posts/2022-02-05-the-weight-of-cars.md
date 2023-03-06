@@ -20,7 +20,9 @@ Vehicles weighing approximately 2000lbs lie around the 30mpg mark in this datase
 
 # Electric vs Gasoline
 
-I love electric cars and their amazing torque characteristics. And the electric drivetrain itself is actually lighter than a traditional IC engine. The thing that literally weighs electric cars down is the battery. And while there’s very little reliable data on how much more an electric car weighs compared to a traditional ICE car, an approximation can be had using platforms offering both electric and ICE drivetrains. The Hyundai Kona electric for example weighs about 335kg or about 750lbs more than its gasoline counterpart for the same trim package. So we’ve added 25% extra mass to a car, which has increased its energy required for hauling by at least the same percentage. The good thing here is that the drivetrain being more efficient more than offsets it. But it doesnt offset the handling characteristics and it is a fundamentally flawed starting point in my opinion.
+I love electric cars and their amazing torque characteristics. And the electric drivetrain itself is actually lighter than a traditional IC engine. The thing that literally weighs electric cars down is the battery. And while there’s very little reliable data on how much more an electric car weighs compared to a traditional ICE car, an approximation can be had using platforms offering both electric and ICE drivetrains. The Hyundai Kona electric for example weighs about 335kg or about 750lbs more than its gasoline counterpart for the same trim package. So we’ve added 25% extra mass to a car, which has increased its energy required for hauling by at least the same percentage. 
+
+The good thing here is that the drivetrain being more efficient more than offsets it. But it doesn't offset the handling characteristics and it is a fundamentally flawed starting point in my opinion.
 
 # What’s ideal?
 
