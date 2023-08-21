@@ -44,6 +44,6 @@ The main observation here is that no matter how hard you work, at a lower income
 
 # Other thoughts
 
-- Inequality is bad. Because policies are usually made for the average person, the bigger the income inequality, the less these policies help the poorest (or the wealthiest).
+- Inequality is bad. And since most policies are usually made for the average person, the bigger the income inequality, the less these policies apply at the extremes (the poorest or the wealthiest).
 - Time is the most precious commodity, and the poorest have it the least. It is also needed to learn and upskill and the lack of it isn't helpful to the ones that want to better their lives.
 - Its hard to find a place with lots of employment opportunities but low living cost. Places like these are the need of the hour.
