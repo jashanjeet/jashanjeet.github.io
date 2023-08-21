@@ -18,8 +18,8 @@ Here's what the relationship looks like:
 ![The relationship between income, living cost, time](/assets/images/post-2-cost-time-income.png)
 
 The thing to note here is that all of the non-linearity exists on the income side:
-- Cutting down living cost to half halves the time you need to spend at work everyday.
-- But doubling your income will usually mean you need to spend less than half the time required before the income increase at work everyday.
+- Halving your living cost halves the time you need to spend at work everyday.
+- But doubling your income will usually mean you need to spend way less than half the time at work everyday.
 
 
 # Lower income scenario
