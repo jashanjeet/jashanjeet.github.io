@@ -17,3 +17,33 @@ Lets look at the window where this matters the most:
 Here's what the relationship looks like:
 ![The relationship between income, living cost, time](/assets/images/post-2-cost-time-income.png)
 
+The thing to note here is that all of the non-linearity exists on the income side:
+- Cutting down living cost to half halves the time you need to spend at work everyday.
+- But doubling your income will usually mean you need to spend less than half the time required before the income increase at work everyday.
+
+
+# Lower income scenario
+At lower incomes, the time available goes to zero very very quickly. Even a slight increase in living cost requires a huge increase in the time you need to spend at your workplace.
+
+Lets zoom in on this area:
+![The relationship between low income, living cost, time](/assets/images/post-2-low-income.png)
+
+What's the observation here?
+- A lot of fixed costs, like transportation, are a huge hit in the time aspect.
+- Lack of available time means you cannot really upskill yourself.
+- A small misfortune will bankrupt you.
+
+
+# High living costs scenario
+
+Lets look into this area:
+![The relationship between low income, living cost, time](/assets/images/post-2-high-living-cost.png)
+
+The main observation here is that no matter how hard you work, at a lower income level, you cannot do anything more than just survive. Forget about pursuing a hobby or relaxing.
+
+
+# Other thoughts
+
+- Inequality is bad. Because policies are usually made for the average person, the bigger the income inequality, the less these policies help the poorest (or the wealthiest).
+- Time is the most precious commodity, and the poorest have it the least. It is also needed to learn and upskill and the lack of it isn't helpful to the ones that want to better their lives.
+- Its hard to find a place with lots of employment opportunities but low living cost. Places like these are the need of the hour.
