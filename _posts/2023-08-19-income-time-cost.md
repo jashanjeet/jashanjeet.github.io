@@ -29,8 +29,9 @@ Lets zoom in on this area:
 ![The relationship between low income, living cost, time](/assets/images/post-2-low-income.png)
 
 What's the observation here?
+- A lot of people, even with 2 jobs, can barely make enough to cover their fixed costs.
 - A lot of fixed costs, like transportation, are a huge hit in the time aspect.
-- Lack of available time means you cannot really upskill yourself.
+- There is barely any time available. Lack of available time means you cannot really upskill yourself.
 - A small misfortune will bankrupt you.
 
 
