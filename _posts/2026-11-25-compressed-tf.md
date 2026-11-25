@@ -7,6 +7,8 @@ Thought I'll share this. I think there are many variations of this already. The 
 
 The caveat is that the query, key, value tokens all have to interact with the token first instead of other tokens directly. However, if implemented with recursion, it should learn to update the data in a way where it allows the token to extract the next important feature with every iteration.
 
+In this case, i use `y` as my query, and `x` as the key and value input. But thats's just a quirk, and should be modifiable.
+
     class CompressedTransformerLayer(nn.Module):
         def __init__(self, embedding_dim=64, heads=8, dropout=0.0, num_compressed_tokens=3):
             super().__init__()
